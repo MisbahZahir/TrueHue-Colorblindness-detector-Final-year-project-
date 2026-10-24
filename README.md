@@ -36,7 +36,7 @@ Then open **http://localhost:5000** in your browser.
 
  File Structure
 ```
-chromavision/
+TrueHue/
 ├── app.py          # Flask backend
 ├── templates/
 │   └── index.html  # Full SPA frontend
