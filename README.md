@@ -1,4 +1,4 @@
-# ChromaVision — Colorblindness Testing Website
+# TrueHue — Colorblindness Testing Website
 
 ## Setup & Run
 
